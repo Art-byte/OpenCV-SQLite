@@ -3,7 +3,7 @@ Proyecto de reconocimiento facial con openCV y conexion a base de datos con sqli
 
 Estructura de directorios: 
 
-
+![Estructura](https://user-images.githubusercontent.com/60827293/132273573-2e87ebda-7081-4280-b0f2-600773fcaa14.jpg)
 
 
 Nota: Dentro de la carpeta recognizer es donde se va a cuardar el archivo con extensión .yml, y mientras en la carpeta dataSet es en donde se van a almacenar las fotografías.
